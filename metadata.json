@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Watch Manager",
+  "description": "Personal YouTube Watch Manager with Supabase sync, playlist organization, playback tracking, and dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
